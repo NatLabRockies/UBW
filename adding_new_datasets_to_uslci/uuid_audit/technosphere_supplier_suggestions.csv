@@ -1,0 +1,12 @@
+old_supplier_process_id,old_supplier_process_name,old_supplier_location,suggested_new_supplier_process_id,match_basis
+49f5324b-fc33-36e9-b5af-3c80d73492bd.3f2fed05-f530-32e9-b0f9-0dcb5280aa9d,"Steel, stainless 304, flat rolled coil",Northern America,49f5324b-fc33-36e9-b5af-3c80d73492bd,name+location
+879845c3-84fa-3f85-9f3d-a8510f950732,"Electricity, natural gas, at power plant",Northern America,fa379f16-c09a-4e70-8595-45c69162215c,name+location
+dfdb7eba-dfc4-3d24-9683-58b8b0ee1346.64360b9b-adc0-3154-b391-40f2a09891d4,"Electricity, biomass, at power plant",Northern America,dfdb7eba-dfc4-3d24-9683-58b8b0ee1346,name+location
+7b7babef-a97a-3510-88f2-ee70aa1fa03b,"Natural gas, combusted in industrial equipment",Northern America,b355f122-dc4e-4224-aafa-d43c3b57db7b,name+location
+e4a61018-9f98-3049-95c1-33b1acaa904e.2c696e73-bd01-3f7b-a6c5-a56dee44d66e,"Acetic acid, at plant",Northern America,e4a61018-9f98-3049-95c1-33b1acaa904e,name+location
+1b6afe73-a064-33a3-87b0-265ae10851e9.f867896e-830f-31f9-975d-465b212262ef,"Sulfuric acid, at plant",Northern America,1b6afe73-a064-33a3-87b0-265ae10851e9,name+location
+5b81b61c-4d10-3bed-9926-8a5f868f5174,"Natural gas, combusted in industrial boiler",Northern America,f347daea-82be-4e62-8872-a0dc0ca24ca3,name+location
+dfa7acbc-4a41-3329-951d-b6cde899c91e.48187a93-fc4e-3c80-98c2-5b0eaafc07d4,"Sulfur, at plant",Northern America,dfa7acbc-4a41-3329-951d-b6cde899c91e,name+location
+1b8709a5-5df4-4c52-85e4-dd6e7ed8deba.873a365d-3bcd-41bc-85ac-d86185aea6bc,"Steel; sections, at plant",Northern America,1b8709a5-5df4-4c52-85e4-dd6e7ed8deba.b35f19b6-e7e8-3c7a-a11e-1e5704413261,name+location
+99963138-ddf9-3b32-9e93-69593d76cb08.a0fb699f-0085-3ad2-99bf-e4ea891e61ba,"Aluminum, primary ingot, at plant",Northern America,99963138-ddf9-3b32-9e93-69593d76cb08,name+location
+bcc68f88-debb-3fc3-93ee-5ceadcef0b14.36549ddd-3dca-3b48-a1b0-7c6889afba05,"Aluminum, secondary ingot, at plant",Northern America,bcc68f88-debb-3fc3-93ee-5ceadcef0b14,name+location

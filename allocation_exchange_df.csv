@@ -1,0 +1,350 @@
+process_name,process_id,exchange_name,exchange_val,exchange_id,allocation_type
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Other, not specified, hardboard, at hardboard plant",0.016863406408094434,f83f9e69-b2b6-3ab7-992c-2d8f5a2962ea,CAUSAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Culled boards, wood fuel, at hardboard plant",0.03799887577290612,a7158692-bd20-375c-92b0-a3dfd5cd7e53,CAUSAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Bag house dust, wood fuel, at hardboard plant",0.05250140528386735,186f734c-6126-3e48-9c71-8a256225e000,CAUSAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Sander dust, wood fuel, at hardboard plant",0.021023046655424395,3390eff1-cd0f-3554-8226-c005bc295f84,CAUSAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Bag house dust, re-pulped, at hardboard plant",0.001573917931422147,be9e5186-3414-3d3b-9dfb-183db5b01b7a,CAUSAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Dry sawdust, wood fuel, at hardboard plant",0.006632939853850478,3dc18462-b043-3501-bcd4-d7c5063d238b,CAUSAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Hardboard, at hardboard plant",0.86341,9d6de29f-6d1d-3ca6-bbe5-26d8d2e0c6af,CAUSAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Hardboard, at hardboard plant",0.86341,9d6de29f-6d1d-3ca6-bbe5-26d8d2e0c6af,ECONOMIC_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Dry sawdust, wood fuel, at hardboard plant",0.006632939853850478,3dc18462-b043-3501-bcd4-d7c5063d238b,PHYSICAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Culled boards, wood fuel, at hardboard plant",0.03799887577290612,a7158692-bd20-375c-92b0-a3dfd5cd7e53,PHYSICAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Bag house dust, re-pulped, at hardboard plant",0.001573917931422147,be9e5186-3414-3d3b-9dfb-183db5b01b7a,PHYSICAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Culled boards, wood fuel, at hardboard plant",0.03799887577290612,a7158692-bd20-375c-92b0-a3dfd5cd7e53,ECONOMIC_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Bag house dust, wood fuel, at hardboard plant",0.05250140528386735,186f734c-6126-3e48-9c71-8a256225e000,PHYSICAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Other, not specified, hardboard, at hardboard plant",0.016863406408094434,f83f9e69-b2b6-3ab7-992c-2d8f5a2962ea,ECONOMIC_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Sander dust, wood fuel, at hardboard plant",0.021023046655424395,3390eff1-cd0f-3554-8226-c005bc295f84,PHYSICAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Bag house dust, wood fuel, at hardboard plant",0.05250140528386735,186f734c-6126-3e48-9c71-8a256225e000,ECONOMIC_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Dry sawdust, wood fuel, at hardboard plant",0.006632939853850478,3dc18462-b043-3501-bcd4-d7c5063d238b,ECONOMIC_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Other, not specified, hardboard, at hardboard plant",0.016863406408094434,f83f9e69-b2b6-3ab7-992c-2d8f5a2962ea,PHYSICAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Bag house dust, re-pulped, at hardboard plant",0.001573917931422147,be9e5186-3414-3d3b-9dfb-183db5b01b7a,ECONOMIC_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Hardboard, at hardboard plant",0.86341,9d6de29f-6d1d-3ca6-bbe5-26d8d2e0c6af,PHYSICAL_ALLOCATION
+"Hardboard, at hardboard plant",ca1d1dfa-fd3c-35f1-bea7-a037251deb04,"Sander dust, wood fuel, at hardboard plant",0.021023046655424395,3390eff1-cd0f-3554-8226-c005bc295f84,ECONOMIC_ALLOCATION
+"Corn, whole plant, at field",11256034-2355-3add-ade9-59983025dded,"Corn, at field",1.0,8db31b1d-1a59-304c-801f-a3cd8a23ba45,CAUSAL_ALLOCATION
+"Corn, whole plant, at field",11256034-2355-3add-ade9-59983025dded,"Corn, at field",1.0,8db31b1d-1a59-304c-801f-a3cd8a23ba45,PHYSICAL_ALLOCATION
+"Corn, whole plant, at field",11256034-2355-3add-ade9-59983025dded,"Corn, at field",1.0,8db31b1d-1a59-304c-801f-a3cd8a23ba45,ECONOMIC_ALLOCATION
+"Paper, mechanical, uncoated, average production, at mill",285cfc08-fc23-3bfc-b304-1bb4a60d2f8a,"Paper, mechanical, uncoated, average production, at mill",1.0,3515e633-ae0d-3417-a0ed-496c045476fd,ECONOMIC_ALLOCATION
+"Precision sand casting, aluminum",f61ecd3b-fdba-3739-8051-1d4bb0c2d98e,"Aluminum, cast, precision sand casting",1.0,fc1ee789-e922-3e7c-bbab-7a8ba489aea7,CAUSAL_ALLOCATION
+"Precision sand casting, aluminum",f61ecd3b-fdba-3739-8051-1d4bb0c2d98e,"Aluminum, cast, precision sand casting",1.0,fc1ee789-e922-3e7c-bbab-7a8ba489aea7,PHYSICAL_ALLOCATION
+"Precision sand casting, aluminum",f61ecd3b-fdba-3739-8051-1d4bb0c2d98e,"Aluminum, cast, precision sand casting",1.0,fc1ee789-e922-3e7c-bbab-7a8ba489aea7,ECONOMIC_ALLOCATION
+"Zinc, sheet",7a0942f9-5fe3-3a78-aff1-9399fea7c14b,"Zinc, sheet",1.0,808f834e-a34b-37a0-952c-57d6d404de92,CAUSAL_ALLOCATION
+"Zinc, sheet",7a0942f9-5fe3-3a78-aff1-9399fea7c14b,"Zinc, sheet",1.0,808f834e-a34b-37a0-952c-57d6d404de92,ECONOMIC_ALLOCATION
+"Zinc, sheet",7a0942f9-5fe3-3a78-aff1-9399fea7c14b,"Zinc, sheet",1.0,808f834e-a34b-37a0-952c-57d6d404de92,PHYSICAL_ALLOCATION
+"Solid strip and plank flooring, hardwood, E",027d304f-00e4-380e-9bba-4e6bde2d685a,Wood fuel; hardwood; from flooring production,1.0,abb8daef-4e1b-3db7-a8e4-723bbdd497de,CAUSAL_ALLOCATION
+"Solid strip and plank flooring, hardwood, E",027d304f-00e4-380e-9bba-4e6bde2d685a,Solid strip and plank flooring; hardwood,1.0,e612ea29-a772-3244-979c-f5bb4eaac256,PHYSICAL_ALLOCATION
+"Solid strip and plank flooring, hardwood, E",027d304f-00e4-380e-9bba-4e6bde2d685a,Solid strip and plank flooring; hardwood,1.0,e612ea29-a772-3244-979c-f5bb4eaac256,ECONOMIC_ALLOCATION
+"Steel; plate, at plant",f2ddc783-1192-43c8-aa84-938af62d8328,"Steel; plate, at plant",1.0,18b83e89-156d-419c-b5a1-13b949bce256,CAUSAL_ALLOCATION
+"Steel; plate, at plant",f2ddc783-1192-43c8-aa84-938af62d8328,"Steel; plate, at plant",1.0,18b83e89-156d-419c-b5a1-13b949bce256,ECONOMIC_ALLOCATION
+"Steel; plate, at plant",f2ddc783-1192-43c8-aa84-938af62d8328,"Steel; plate, at plant",1.0,18b83e89-156d-419c-b5a1-13b949bce256,PHYSICAL_ALLOCATION
+"Soy oil, refined, at plant",bc119cdf-7143-35e8-9adb-c3a92dc376b6,"Soap stock, at plant",0.007345642247369466,52effa32-8328-32c3-87aa-ac40ebf3aff2,CAUSAL_ALLOCATION
+"Soy oil, refined, at plant",bc119cdf-7143-35e8-9adb-c3a92dc376b6,"Soy oil, refined, at plant",0.9926543577526306,f126c700-2f3b-3477-9e1d-e73f5741a8b7,CAUSAL_ALLOCATION
+"Soy oil, refined, at plant",bc119cdf-7143-35e8-9adb-c3a92dc376b6,"Soy oil, refined, at plant",0.9926543577526306,f126c700-2f3b-3477-9e1d-e73f5741a8b7,ECONOMIC_ALLOCATION
+"Soy oil, refined, at plant",bc119cdf-7143-35e8-9adb-c3a92dc376b6,"Soap stock, at plant",0.007345642247369466,52effa32-8328-32c3-87aa-ac40ebf3aff2,ECONOMIC_ALLOCATION
+"Soy oil, refined, at plant",bc119cdf-7143-35e8-9adb-c3a92dc376b6,"Soap stock, at plant",0.007345642247369466,52effa32-8328-32c3-87aa-ac40ebf3aff2,PHYSICAL_ALLOCATION
+"Soy oil, refined, at plant",bc119cdf-7143-35e8-9adb-c3a92dc376b6,"Soy oil, refined, at plant",0.9926543577526306,f126c700-2f3b-3477-9e1d-e73f5741a8b7,PHYSICAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood waste, at MDF mill",7.11876e-05,5eead0e3-01ba-3a72-8e10-f9c865857a61,CAUSAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Bark, at MDF mill",0.01469311,b1421df2-c303-3605-a1e2-07b564d6b0ca,CAUSAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood fuel, at MDF mill",0.061506044,4ba384f6-f15b-3ef3-ae39-2248e3f54aef,CAUSAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Medium density fiberboard (MDF), at MDF mill",0.843999601,7f72d860-0e4a-3686-a262-7c045b862d37,CAUSAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood fuel, sanderdust, at MDF mill",0.079730057,360d59b6-0f7a-3b5d-8d61-b6f9e73a4b0a,CAUSAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood waste, at MDF mill",7.11876e-05,5eead0e3-01ba-3a72-8e10-f9c865857a61,PHYSICAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood fuel, sanderdust, at MDF mill",0.079730057,360d59b6-0f7a-3b5d-8d61-b6f9e73a4b0a,PHYSICAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood fuel, at MDF mill",0.061506044,4ba384f6-f15b-3ef3-ae39-2248e3f54aef,ECONOMIC_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood waste, at MDF mill",7.11876e-05,5eead0e3-01ba-3a72-8e10-f9c865857a61,ECONOMIC_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Bark, at MDF mill",0.01469311,b1421df2-c303-3605-a1e2-07b564d6b0ca,PHYSICAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Bark, at MDF mill",0.01469311,b1421df2-c303-3605-a1e2-07b564d6b0ca,ECONOMIC_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Medium density fiberboard (MDF), at MDF mill",0.843999601,7f72d860-0e4a-3686-a262-7c045b862d37,PHYSICAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Medium density fiberboard (MDF), at MDF mill",0.843999601,7f72d860-0e4a-3686-a262-7c045b862d37,ECONOMIC_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood fuel, at MDF mill",0.061506044,4ba384f6-f15b-3ef3-ae39-2248e3f54aef,PHYSICAL_ALLOCATION
+"Medium density fiberboard (MDF), at MDF mill",4e01da4a-71e5-3d9d-93c3-0f0a230f2735,"Wood fuel, sanderdust, at MDF mill",0.079730057,360d59b6-0f7a-3b5d-8d61-b6f9e73a4b0a,ECONOMIC_ALLOCATION
+"Lost foam casting, aluminum",a8c3ad24-992e-31e0-9e18-fdf0280875df,"Aluminum, cast, lost foam, at plant",1.0,34e560b1-5686-32f7-9dd3-e1dc8d9bbc46,CAUSAL_ALLOCATION
+"Lost foam casting, aluminum",a8c3ad24-992e-31e0-9e18-fdf0280875df,"Aluminum, cast, lost foam, at plant",1.0,34e560b1-5686-32f7-9dd3-e1dc8d9bbc46,ECONOMIC_ALLOCATION
+"Lost foam casting, aluminum",a8c3ad24-992e-31e0-9e18-fdf0280875df,"Aluminum, cast, lost foam, at plant",1.0,34e560b1-5686-32f7-9dd3-e1dc8d9bbc46,PHYSICAL_ALLOCATION
+"Rice, at field",4c6eed4c-5f5e-30c7-8948-956c79c4806d,"Rice grain, at field",1.0,c4d1204a-67a3-395d-9b59-ba34528b3ba6,CAUSAL_ALLOCATION
+"Rice, at field",4c6eed4c-5f5e-30c7-8948-956c79c4806d,"Rice grain, at field",1.0,c4d1204a-67a3-395d-9b59-ba34528b3ba6,ECONOMIC_ALLOCATION
+"Rice, at field",4c6eed4c-5f5e-30c7-8948-956c79c4806d,"Rice grain, at field",1.0,c4d1204a-67a3-395d-9b59-ba34528b3ba6,PHYSICAL_ALLOCATION
+"Unsaturated polyester, UPR, resin, at plant",91c096d9-987d-34c6-90c0-3c672b467086,"Unsaturated polyester, UPR, resin, at plant",1.0,b6fd2a6b-1140-3a94-a8df-34a5031ba57a,CAUSAL_ALLOCATION
+"Unsaturated polyester, UPR, resin, at plant",91c096d9-987d-34c6-90c0-3c672b467086,"Unsaturated polyester, UPR, resin, at plant",1.0,b6fd2a6b-1140-3a94-a8df-34a5031ba57a,PHYSICAL_ALLOCATION
+"Unsaturated polyester, UPR, resin, at plant",91c096d9-987d-34c6-90c0-3c672b467086,"Unsaturated polyester, UPR, resin, at plant",1.0,b6fd2a6b-1140-3a94-a8df-34a5031ba57a,ECONOMIC_ALLOCATION
+"Cotton, whole plant, at field",3ffdd525-d623-363f-8876-1999b0f5130f,"Cotton, at field",1.0,4fbbb19a-bc25-3265-b196-04feec6ace45,CAUSAL_ALLOCATION
+"Cotton, whole plant, at field",3ffdd525-d623-363f-8876-1999b0f5130f,"Cotton, at field",1.0,4fbbb19a-bc25-3265-b196-04feec6ace45,ECONOMIC_ALLOCATION
+"Cotton, whole plant, at field",3ffdd525-d623-363f-8876-1999b0f5130f,"Cotton, at field",1.0,4fbbb19a-bc25-3265-b196-04feec6ace45,PHYSICAL_ALLOCATION
+"Wood Combusted, at boiler, at cellulosic fiberboard mill",106bcee8-0d5f-30c6-ac98-fa6dab41d4d1,"Wood ash, at boiler, at cellulosic fiberboard mill",0.01873904820775533,77cbfa28-85c8-3da1-9f3f-1aa00612d97b,CAUSAL_ALLOCATION
+"Wood Combusted, at boiler, at cellulosic fiberboard mill",106bcee8-0d5f-30c6-ac98-fa6dab41d4d1,"Wood Combusted, at boiler, at cellulosic fiberboard mill",0.9812609517922446,b749402e-e420-3c23-96eb-10e39d0569e3,CAUSAL_ALLOCATION
+"Wood Combusted, at boiler, at cellulosic fiberboard mill",106bcee8-0d5f-30c6-ac98-fa6dab41d4d1,"Wood Combusted, at boiler, at cellulosic fiberboard mill",0.9812609517922446,b749402e-e420-3c23-96eb-10e39d0569e3,PHYSICAL_ALLOCATION
+"Wood Combusted, at boiler, at cellulosic fiberboard mill",106bcee8-0d5f-30c6-ac98-fa6dab41d4d1,"Wood ash, at boiler, at cellulosic fiberboard mill",0.01873904820775533,77cbfa28-85c8-3da1-9f3f-1aa00612d97b,PHYSICAL_ALLOCATION
+"Wood Combusted, at boiler, at cellulosic fiberboard mill",106bcee8-0d5f-30c6-ac98-fa6dab41d4d1,"Wood Combusted, at boiler, at cellulosic fiberboard mill",0.9812609517922446,b749402e-e420-3c23-96eb-10e39d0569e3,ECONOMIC_ALLOCATION
+"Wood Combusted, at boiler, at cellulosic fiberboard mill",106bcee8-0d5f-30c6-ac98-fa6dab41d4d1,"Wood ash, at boiler, at cellulosic fiberboard mill",0.01873904820775533,77cbfa28-85c8-3da1-9f3f-1aa00612d97b,ECONOMIC_ALLOCATION
+"Potato, whole plant, at field",91663389-8cd1-3272-9f06-cdc87c8ce7d9,"Potato, at field",1.0,54cd924c-48cb-347e-a2d1-dbbf32c93d36,CAUSAL_ALLOCATION
+"Potato, whole plant, at field",91663389-8cd1-3272-9f06-cdc87c8ce7d9,"Potato, at field",1.0,54cd924c-48cb-347e-a2d1-dbbf32c93d36,ECONOMIC_ALLOCATION
+"Potato, whole plant, at field",91663389-8cd1-3272-9f06-cdc87c8ce7d9,"Potato, at field",1.0,54cd924c-48cb-347e-a2d1-dbbf32c93d36,PHYSICAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Pins and fines, at cellulosic fiberboard plant",0.007188800605372684,b2964eb3-b95b-310f-9157-4cfe387dec9e,CAUSAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Cellulosic fiberboard, uncoated, at plant",0.961,bdc5f6f5-2bcc-39b2-8273-211b96e8258d,CAUSAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Culled boards, wood fuel, at cellulosic fiberboard plant",0.004161937192584186,b16b7cc3-bf0c-33fe-b598-15ccebbe3981,CAUSAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Molasses, at cellulosic fiberboard plant",0.02194475974271661,e7f196a6-da64-3bc6-90c3-853ff5f74b86,CAUSAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Other, not specified, at cellulosic fiberboard plant",0.005675368898978434,bb81d0cb-06dc-3614-b69c-3d3780c2c342,CAUSAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Pins and fines, at cellulosic fiberboard plant",0.007188800605372684,b2964eb3-b95b-310f-9157-4cfe387dec9e,PHYSICAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Cellulosic fiberboard, uncoated, at plant",0.961,bdc5f6f5-2bcc-39b2-8273-211b96e8258d,ECONOMIC_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Molasses, at cellulosic fiberboard plant",0.02194475974271661,e7f196a6-da64-3bc6-90c3-853ff5f74b86,PHYSICAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Culled boards, wood fuel, at cellulosic fiberboard plant",0.004161937192584186,b16b7cc3-bf0c-33fe-b598-15ccebbe3981,ECONOMIC_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Cellulosic fiberboard, uncoated, at plant",0.961,bdc5f6f5-2bcc-39b2-8273-211b96e8258d,PHYSICAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Other, not specified, at cellulosic fiberboard plant",0.005675368898978434,bb81d0cb-06dc-3614-b69c-3d3780c2c342,PHYSICAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Culled boards, wood fuel, at cellulosic fiberboard plant",0.004161937192584186,b16b7cc3-bf0c-33fe-b598-15ccebbe3981,PHYSICAL_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Pins and fines, at cellulosic fiberboard plant",0.007188800605372684,b2964eb3-b95b-310f-9157-4cfe387dec9e,ECONOMIC_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Other, not specified, at cellulosic fiberboard plant",0.005675368898978434,bb81d0cb-06dc-3614-b69c-3d3780c2c342,ECONOMIC_ALLOCATION
+"Cellulosic fiberboard, uncoated, at plant",cced9535-72f6-3b3a-b3c0-ce21b98eea2b,"Molasses, at cellulosic fiberboard plant",0.02194475974271661,e7f196a6-da64-3bc6-90c3-853ff5f74b86,ECONOMIC_ALLOCATION
+"Steel; pickled hot rolled coil, at plant",137b2f94-e29e-4870-a2c2-20dafd441f1d,"Steel; pickled hot rolled coil, at plant",1.0,0ef88894-a6b7-415d-88cd-9aefdd14fc3a,CAUSAL_ALLOCATION
+"Steel; pickled hot rolled coil, at plant",137b2f94-e29e-4870-a2c2-20dafd441f1d,"Steel; pickled hot rolled coil, at plant",1.0,0ef88894-a6b7-415d-88cd-9aefdd14fc3a,ECONOMIC_ALLOCATION
+"Steel; pickled hot rolled coil, at plant",137b2f94-e29e-4870-a2c2-20dafd441f1d,"Steel; pickled hot rolled coil, at plant",1.0,0ef88894-a6b7-415d-88cd-9aefdd14fc3a,PHYSICAL_ALLOCATION
+"Semi-permanent mold (SPM) casting, aluminum",ab2436bc-97db-3154-898e-2c49ca4b698e,"Aluminum, cast, semi-permanent mold (SPM), at plant",1.0,5acf07ec-9122-3be0-96be-9362ef4f1463,CAUSAL_ALLOCATION
+"Semi-permanent mold (SPM) casting, aluminum",ab2436bc-97db-3154-898e-2c49ca4b698e,"Aluminum, cast, semi-permanent mold (SPM), at plant",1.0,5acf07ec-9122-3be0-96be-9362ef4f1463,PHYSICAL_ALLOCATION
+"Semi-permanent mold (SPM) casting, aluminum",ab2436bc-97db-3154-898e-2c49ca4b698e,"Aluminum, cast, semi-permanent mold (SPM), at plant",1.0,5acf07ec-9122-3be0-96be-9362ef4f1463,ECONOMIC_ALLOCATION
+"Paper, mechanical, coated, average production, at mill",3fa61250-2a76-30f5-aa5e-267f99ca3ee5,"Paper, mechanical, coated, average production, at mill",1.0,7c08fe4d-f534-3bca-94fb-ed2b3e48e142,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Wood fuel; hardwood; green; at sawmill,0.1611,851dabd1-801f-3582-8b29-a3cdd6f65473,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Wood fuel; hardwood; green; at sawmill,0.1611,851dabd1-801f-3582-8b29-a3cdd6f65473,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Wood chips; hardwood; green; at sawmill,0.1673,de3af1d1-ce3e-329c-9ca7-6323adb9f172,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Sawn lumber; hardwood; rough; green; at sawmill,0.6077,6170b901-641c-3088-a8c0-799f9e5f766f,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Sawdust; hardwood; green; at sawmill,0.0414,09158da1-b29b-33c9-9b80-baa6618ee541,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Hogged fuel; hardwood; green; at sawmill,0.0225,9d8c4200-5dc8-3515-9c23-31c577722fce,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Sawdust; hardwood; green; at sawmill,0.0414,09158da1-b29b-33c9-9b80-baa6618ee541,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Wood chips; hardwood; green; at sawmill,0.1673,de3af1d1-ce3e-329c-9ca7-6323adb9f172,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Wood chips; hardwood; green; at sawmill,0.1673,de3af1d1-ce3e-329c-9ca7-6323adb9f172,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Hogged fuel; hardwood; green; at sawmill,0.0225,9d8c4200-5dc8-3515-9c23-31c577722fce,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Sawdust; hardwood; green; at sawmill,0.0414,09158da1-b29b-33c9-9b80-baa6618ee541,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Wood fuel; hardwood; green; at sawmill,0.1611,851dabd1-801f-3582-8b29-a3cdd6f65473,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Sawn lumber; hardwood; rough; green; at sawmill,0.6077,6170b901-641c-3088-a8c0-799f9e5f766f,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Sawn lumber; hardwood; rough; green; at sawmill,0.6077,6170b901-641c-3088-a8c0-799f9e5f766f,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, NE-NC",2468b04f-b9b1-364d-bfbf-8ba12178096e,Hogged fuel; hardwood; green; at sawmill,0.0225,9d8c4200-5dc8-3515-9c23-31c577722fce,PHYSICAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill average, NE-NC",6b80eeee-54ed-3f0f-82cd-8c29e3aa5d24,Heat; onsite boiler; hardwood mill; average,0.998,833c3f72-fbbe-37ea-adf8-929b47ec0255,CAUSAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill average, NE-NC",6b80eeee-54ed-3f0f-82cd-8c29e3aa5d24,Heat; onsite boiler; hardwood mill; average,0.998,833c3f72-fbbe-37ea-adf8-929b47ec0255,ECONOMIC_ALLOCATION
+"Heat, onsite boiler, hardwood mill average, NE-NC",6b80eeee-54ed-3f0f-82cd-8c29e3aa5d24,Electricity; onsite boiler; hardwood mill; average,0.002,97624ce0-6d6a-3376-bfa7-c663b3c7e48d,CAUSAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill average, NE-NC",6b80eeee-54ed-3f0f-82cd-8c29e3aa5d24,Electricity; onsite boiler; hardwood mill; average,0.002,97624ce0-6d6a-3376-bfa7-c663b3c7e48d,ECONOMIC_ALLOCATION
+"Heat, onsite boiler, hardwood mill average, NE-NC",6b80eeee-54ed-3f0f-82cd-8c29e3aa5d24,Heat; onsite boiler; hardwood mill; average,0.998,833c3f72-fbbe-37ea-adf8-929b47ec0255,PHYSICAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill average, NE-NC",6b80eeee-54ed-3f0f-82cd-8c29e3aa5d24,Electricity; onsite boiler; hardwood mill; average,0.002,97624ce0-6d6a-3376-bfa7-c663b3c7e48d,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, NE-NC",655c14ed-5b78-3e50-96e5-e21f710143fe,Roundwood; hardwood; green; at mill,0.94940635,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, NE-NC",655c14ed-5b78-3e50-96e5-e21f710143fe,Bark; hardwood; green; at mill,0.05059365,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, NE-NC",655c14ed-5b78-3e50-96e5-e21f710143fe,Roundwood; hardwood; green; at mill,0.94940635,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, NE-NC",655c14ed-5b78-3e50-96e5-e21f710143fe,Bark; hardwood; green; at mill,0.05059365,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at mill, NE-NC",655c14ed-5b78-3e50-96e5-e21f710143fe,Roundwood; hardwood; green; at mill,0.94940635,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at mill, NE-NC",655c14ed-5b78-3e50-96e5-e21f710143fe,Bark; hardwood; green; at mill,0.05059365,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, NE-NC",baaac50f-23d5-3bd1-8970-1cae058f4234,Bark; hardwood; green; at logyard,0.05059365,a02815b0-8760-3b74-b2b6-ea070b183bbe,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, NE-NC",baaac50f-23d5-3bd1-8970-1cae058f4234,Roundwood; hardwood; green; at logyard,0.94940635,86313deb-8b04-3f3e-b983-2b9896a410a6,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, NE-NC",baaac50f-23d5-3bd1-8970-1cae058f4234,Roundwood; hardwood; green; at logyard,0.94940635,86313deb-8b04-3f3e-b983-2b9896a410a6,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, NE-NC",baaac50f-23d5-3bd1-8970-1cae058f4234,Bark; hardwood; green; at logyard,0.05059365,a02815b0-8760-3b74-b2b6-ea070b183bbe,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, NE-NC",baaac50f-23d5-3bd1-8970-1cae058f4234,Bark; hardwood; green; at logyard,0.05059365,a02815b0-8760-3b74-b2b6-ea070b183bbe,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at logyard, NE-NC",baaac50f-23d5-3bd1-8970-1cae058f4234,Roundwood; hardwood; green; at logyard,0.94940635,86313deb-8b04-3f3e-b983-2b9896a410a6,ECONOMIC_ALLOCATION
+"Paper, freesheet, uncoated, average production, at mill",732a5578-1750-3738-b0f2-607106574358,"Paper, freesheet, uncoated, average production, at mill",1.0,19bd554c-7902-368c-988f-5cc80d6b7cae,CAUSAL_ALLOCATION
+"Paper, freesheet, uncoated, average production, at mill",732a5578-1750-3738-b0f2-607106574358,"Paper, freesheet, uncoated, average production, at mill",1.0,19bd554c-7902-368c-988f-5cc80d6b7cae,PHYSICAL_ALLOCATION
+"Paper, freesheet, uncoated, average production, at mill",732a5578-1750-3738-b0f2-607106574358,"Paper, freesheet, uncoated, average production, at mill",1.0,19bd554c-7902-368c-988f-5cc80d6b7cae,ECONOMIC_ALLOCATION
+"Wheat, at field",d6439ada-877c-30ff-92b2-875e88b88141,"Wheat grains, at field",1.0,e0f376d5-b43c-383a-8eb5-8b6a957301f0,CAUSAL_ALLOCATION
+"Wheat, at field",d6439ada-877c-30ff-92b2-875e88b88141,"Wheat grains, at field",1.0,e0f376d5-b43c-383a-8eb5-8b6a957301f0,PHYSICAL_ALLOCATION
+"Wheat, at field",d6439ada-877c-30ff-92b2-875e88b88141,"Wheat grains, at field",1.0,e0f376d5-b43c-383a-8eb5-8b6a957301f0,ECONOMIC_ALLOCATION
+Sodium bicarbonate; solvay process; at plant - PROXY,1bf86847-c8d5-49d6-b223-ac39940a53f9,"Ammonium chloride, at plant",0.3890270687061671,db500fb7-bdfa-4435-ad4d-76363b686b63,CAUSAL_ALLOCATION
+Sodium bicarbonate; solvay process; at plant - PROXY,1bf86847-c8d5-49d6-b223-ac39940a53f9,Sodium bicarbonate; at plant,0.6109729312938329,2dd9826c-1241-46df-ba80-f6be1ae01c8b,ECONOMIC_ALLOCATION
+Sodium bicarbonate; solvay process; at plant - PROXY,1bf86847-c8d5-49d6-b223-ac39940a53f9,Sodium bicarbonate; at plant,0.6109729312938329,2dd9826c-1241-46df-ba80-f6be1ae01c8b,CAUSAL_ALLOCATION
+Sodium bicarbonate; solvay process; at plant - PROXY,1bf86847-c8d5-49d6-b223-ac39940a53f9,"Ammonium chloride, at plant",0.3890270687061671,db500fb7-bdfa-4435-ad4d-76363b686b63,ECONOMIC_ALLOCATION
+Sodium bicarbonate; solvay process; at plant - PROXY,1bf86847-c8d5-49d6-b223-ac39940a53f9,"Ammonium chloride, at plant",0.3890270687061671,db500fb7-bdfa-4435-ad4d-76363b686b63,PHYSICAL_ALLOCATION
+Sodium bicarbonate; solvay process; at plant - PROXY,1bf86847-c8d5-49d6-b223-ac39940a53f9,Sodium bicarbonate; at plant,0.6109729312938329,2dd9826c-1241-46df-ba80-f6be1ae01c8b,PHYSICAL_ALLOCATION
+"Asphalt binder, 8% ground rubber tire (GRT), consumption mix, at terminal, from crude oil, 8% ground rubber tire",72d5a381-8cae-4e1d-b0a3-26cc43b69867,Asphalt binder,1.0,ada21fb4-fd3a-4557-9085-9f1495ae8a0c,CAUSAL_ALLOCATION
+"Asphalt binder, 8% ground rubber tire (GRT), consumption mix, at terminal, from crude oil, 8% ground rubber tire",72d5a381-8cae-4e1d-b0a3-26cc43b69867,Asphalt binder,1.0,ada21fb4-fd3a-4557-9085-9f1495ae8a0c,PHYSICAL_ALLOCATION
+"Asphalt binder, 8% ground rubber tire (GRT), consumption mix, at terminal, from crude oil, 8% ground rubber tire",72d5a381-8cae-4e1d-b0a3-26cc43b69867,Asphalt binder,1.0,ada21fb4-fd3a-4557-9085-9f1495ae8a0c,ECONOMIC_ALLOCATION
+"Soy biodiesel, production, at plant",1fe9b61c-f684-3584-a5e9-98677caee0f3,"Soy biodiesel, production, at plant",0.8929045973956949,8bb065f1-654b-3f5c-b9cf-2d66d92e8c19,CAUSAL_ALLOCATION
+"Soy biodiesel, production, at plant",1fe9b61c-f684-3584-a5e9-98677caee0f3,"Glycerin, at plant",0.10709540260430508,9d4fa335-7916-3bf5-be4d-814cbb176908,CAUSAL_ALLOCATION
+"Soy biodiesel, production, at plant",1fe9b61c-f684-3584-a5e9-98677caee0f3,"Soy biodiesel, production, at plant",0.8929045973956949,8bb065f1-654b-3f5c-b9cf-2d66d92e8c19,PHYSICAL_ALLOCATION
+"Soy biodiesel, production, at plant",1fe9b61c-f684-3584-a5e9-98677caee0f3,"Glycerin, at plant",0.10709540260430508,9d4fa335-7916-3bf5-be4d-814cbb176908,ECONOMIC_ALLOCATION
+"Soy biodiesel, production, at plant",1fe9b61c-f684-3584-a5e9-98677caee0f3,"Glycerin, at plant",0.10709540260430508,9d4fa335-7916-3bf5-be4d-814cbb176908,PHYSICAL_ALLOCATION
+"Soy biodiesel, production, at plant",1fe9b61c-f684-3584-a5e9-98677caee0f3,"Soy biodiesel, production, at plant",0.8929045973956949,8bb065f1-654b-3f5c-b9cf-2d66d92e8c19,ECONOMIC_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Wood chips; hardwood; green; at veneer mill,0.42470026782276105,32fd72b1-79cd-3dd0-818e-5f46a8b74c57,CAUSAL_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Veneer; hardwood; green; at veneer mill,0.43267005014645876,a339abd8-8eaf-3163-862c-85d7eeba2868,ECONOMIC_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Wood chips; hardwood; green; at veneer mill,0.42470026782276105,32fd72b1-79cd-3dd0-818e-5f46a8b74c57,PHYSICAL_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Veneer; hardwood; green; at veneer mill,0.43267005014645876,a339abd8-8eaf-3163-862c-85d7eeba2868,CAUSAL_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Wood fuel; hardwood; green; at veneer mill,0.14262968203078014,086e1013-f898-357f-b6af-da332554166e,ECONOMIC_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Wood fuel; hardwood; green; at veneer mill,0.14262968203078014,086e1013-f898-357f-b6af-da332554166e,CAUSAL_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Veneer; hardwood; green; at veneer mill,0.43267005014645876,a339abd8-8eaf-3163-862c-85d7eeba2868,PHYSICAL_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Wood chips; hardwood; green; at veneer mill,0.42470026782276105,32fd72b1-79cd-3dd0-818e-5f46a8b74c57,ECONOMIC_ALLOCATION
+"Veneer, hardwood, green, at veneer mill, E",cdc143eb-fff8-3618-85cd-bce83d96390f,Wood fuel; hardwood; green; at veneer mill,0.14262968203078014,086e1013-f898-357f-b6af-da332554166e,PHYSICAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Wood fuel; hardwood; dry; at engineered wood flooring plant,0.005582111,115967d8-5c6a-32ee-9868-6a786b34ecf2,CAUSAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Shavings; hardwood; dry; at engineered wood flooring plant,0.015395216,90317723-deb2-3db0-8b02-233704e100b7,PHYSICAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Sawdust; hardwood; dry; at engineered wood flooring plant,0.15408673,2ff86a3f-6fb4-3437-939c-3c42d6d037d6,CAUSAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Shavings; hardwood; dry; at engineered wood flooring plant,0.015395216,90317723-deb2-3db0-8b02-233704e100b7,ECONOMIC_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Shavings; hardwood; dry; at engineered wood flooring plant,0.015395216,90317723-deb2-3db0-8b02-233704e100b7,CAUSAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Engineered flooring; hardwood; unfinished,0.824935943,765ec5e3-20b0-3d0d-8d3f-75f42b37efc6,CAUSAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Wood fuel; hardwood; dry; at engineered wood flooring plant,0.005582111,115967d8-5c6a-32ee-9868-6a786b34ecf2,PHYSICAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Wood fuel; hardwood; dry; at engineered wood flooring plant,0.005582111,115967d8-5c6a-32ee-9868-6a786b34ecf2,ECONOMIC_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Engineered flooring; hardwood; unfinished,0.824935943,765ec5e3-20b0-3d0d-8d3f-75f42b37efc6,ECONOMIC_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Engineered flooring; hardwood; unfinished,0.824935943,765ec5e3-20b0-3d0d-8d3f-75f42b37efc6,PHYSICAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Sawdust; hardwood; dry; at engineered wood flooring plant,0.15408673,2ff86a3f-6fb4-3437-939c-3c42d6d037d6,PHYSICAL_ALLOCATION
+"Engineered flooring, hardwood, unfinished, E",3b1cd62b-7788-3096-8b6e-9cb6cdc359f2,Sawdust; hardwood; dry; at engineered wood flooring plant,0.15408673,2ff86a3f-6fb4-3437-939c-3c42d6d037d6,ECONOMIC_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Veneer; hardwood; dry; at veneer mill,0.9858117050352797,a8c7720c-363e-37c8-a986-6441c1c12771,CAUSAL_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Clippings; hardwood; dry; at veneer mill,0.005712187343656425,6a30e246-0363-3085-b466-b3a8c7c49ae1,CAUSAL_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Wood fuel; hardwood; dry; at veneer mill,0.008476107621063838,cf678567-6e5e-35ac-8fcd-4c3e003e1461,CAUSAL_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Wood fuel; hardwood; dry; at veneer mill,0.008476107621063838,cf678567-6e5e-35ac-8fcd-4c3e003e1461,ECONOMIC_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Veneer; hardwood; dry; at veneer mill,0.9858117050352797,a8c7720c-363e-37c8-a986-6441c1c12771,PHYSICAL_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Clippings; hardwood; dry; at veneer mill,0.005712187343656425,6a30e246-0363-3085-b466-b3a8c7c49ae1,PHYSICAL_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Clippings; hardwood; dry; at veneer mill,0.005712187343656425,6a30e246-0363-3085-b466-b3a8c7c49ae1,ECONOMIC_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Veneer; hardwood; dry; at veneer mill,0.9858117050352797,a8c7720c-363e-37c8-a986-6441c1c12771,ECONOMIC_ALLOCATION
+"Veneer, hardwood, dry, at veneer mill, E",277ef057-4ad9-3780-a1c0-6d78321131f6,Wood fuel; hardwood; dry; at veneer mill,0.008476107621063838,cf678567-6e5e-35ac-8fcd-4c3e003e1461,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, E",640186a9-d4e0-39cd-9c23-95c215738edd,Bark; hardwood; green; at mill,0.05059365,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, E",640186a9-d4e0-39cd-9c23-95c215738edd,Roundwood; hardwood; green; at mill,0.94940635,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, E",640186a9-d4e0-39cd-9c23-95c215738edd,Bark; hardwood; green; at mill,0.05059365,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, E",640186a9-d4e0-39cd-9c23-95c215738edd,Roundwood; hardwood; green; at mill,0.94940635,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, E",640186a9-d4e0-39cd-9c23-95c215738edd,Bark; hardwood; green; at mill,0.05059365,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at mill, E",640186a9-d4e0-39cd-9c23-95c215738edd,Roundwood; hardwood; green; at mill,0.94940635,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,ECONOMIC_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; drying stain; at engineered wood flooring mill,0.06252436267248772,b783147a-f7a9-3bbf-aa84-67a85f4959fc,CAUSAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; block conditioning; at veneer mill,0.23700007796055195,9ebe90f5-2dc4-3bf3-87da-85c47b29a7f8,CAUSAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; pressing panels; hardwood; at engineered wood flooring plant,0.11257503703126218,9a41d70d-651c-37e2-81b9-d0286f0f6811,PHYSICAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; drying veneer; hardwood; at veneer mill,0.5879005223356981,b88f08c0-f5b8-3fa8-bdd3-476e04d19ea0,CAUSAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; pressing panels; hardwood; at engineered wood flooring plant,0.11257503703126218,9a41d70d-651c-37e2-81b9-d0286f0f6811,CAUSAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; drying veneer; hardwood; at veneer mill,0.5879005223356981,b88f08c0-f5b8-3fa8-bdd3-476e04d19ea0,PHYSICAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; drying stain; at engineered wood flooring mill,0.06252436267248772,b783147a-f7a9-3bbf-aa84-67a85f4959fc,ECONOMIC_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; block conditioning; at veneer mill,0.23700007796055195,9ebe90f5-2dc4-3bf3-87da-85c47b29a7f8,ECONOMIC_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; drying veneer; hardwood; at veneer mill,0.5879005223356981,b88f08c0-f5b8-3fa8-bdd3-476e04d19ea0,ECONOMIC_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; drying stain; at engineered wood flooring mill,0.06252436267248772,b783147a-f7a9-3bbf-aa84-67a85f4959fc,PHYSICAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; block conditioning; at veneer mill,0.23700007796055195,9ebe90f5-2dc4-3bf3-87da-85c47b29a7f8,PHYSICAL_ALLOCATION
+"Heat, drying veneer, hardwood, at veneer mill, E",396f5200-0194-30c3-8b5f-96a33bde9c6c,Heat; pressing panels; hardwood; at engineered wood flooring plant,0.11257503703126218,9a41d70d-651c-37e2-81b9-d0286f0f6811,ECONOMIC_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Bucked and debarked log; hardwood; green; at veneer mill,0.949406332,52e7f1f1-455f-3c6c-a777-57cc89098528,CAUSAL_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Bucked and debarked log; hardwood; green; at veneer mill,0.949406332,52e7f1f1-455f-3c6c-a777-57cc89098528,ECONOMIC_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Bark; hardwood; green; at veneer mill,0.046056115,7beb2597-d87c-32ba-83c4-336f5dc23a19,CAUSAL_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Wood fuel; hardwood; green; at veneer mill,0.004537553,086e1013-f898-357f-b6af-da332554166e,CAUSAL_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Bark; hardwood; green; at veneer mill,0.046056115,7beb2597-d87c-32ba-83c4-336f5dc23a19,ECONOMIC_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Bucked and debarked log; hardwood; green; at veneer mill,0.949406332,52e7f1f1-455f-3c6c-a777-57cc89098528,PHYSICAL_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Wood fuel; hardwood; green; at veneer mill,0.004537553,086e1013-f898-357f-b6af-da332554166e,PHYSICAL_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Wood fuel; hardwood; green; at veneer mill,0.004537553,086e1013-f898-357f-b6af-da332554166e,ECONOMIC_ALLOCATION
+"Bucked and debarked log, hardwood, green, at veneer mill, E",bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678,Bark; hardwood; green; at veneer mill,0.046056115,7beb2597-d87c-32ba-83c4-336f5dc23a19,PHYSICAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Particleboard, average, softwood, particleboard mill",0.9586471,ea677467-e6eb-3369-b47d-b09edad21f04,CAUSAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood fuel, hogfuel, particleboard mill",0.002570099,d57c30eb-3b8d-3ee5-8c79-c66a859531ae,CAUSAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood waste, softwood, particleboard mill",0.006656558,539abee9-d649-3c9b-bf09-9328c2b212c6,CAUSAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood fuel, sanderdust, particleboard mill",0.032126243,ad78a50f-def9-3337-84ab-61e9196b0042,CAUSAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood fuel, sanderdust, particleboard mill",0.032126243,ad78a50f-def9-3337-84ab-61e9196b0042,PHYSICAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood fuel, hogfuel, particleboard mill",0.002570099,d57c30eb-3b8d-3ee5-8c79-c66a859531ae,ECONOMIC_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Particleboard, average, softwood, particleboard mill",0.9586471,ea677467-e6eb-3369-b47d-b09edad21f04,ECONOMIC_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood waste, softwood, particleboard mill",0.006656558,539abee9-d649-3c9b-bf09-9328c2b212c6,PHYSICAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood fuel, sanderdust, particleboard mill",0.032126243,ad78a50f-def9-3337-84ab-61e9196b0042,ECONOMIC_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood fuel, hogfuel, particleboard mill",0.002570099,d57c30eb-3b8d-3ee5-8c79-c66a859531ae,PHYSICAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Particleboard, average, softwood, particleboard mill",0.9586471,ea677467-e6eb-3369-b47d-b09edad21f04,PHYSICAL_ALLOCATION
+"Particleboard, average, softwood, particleboard mill",57686507-ed6b-3e06-906e-c28a7c6fb8bc,"Wood waste, softwood, particleboard mill",0.006656558,539abee9-d649-3c9b-bf09-9328c2b212c6,ECONOMIC_ALLOCATION
+"Rapeseed, whole plant, at field",5abfba66-c3cb-38f2-8b01-9f566c5ab656,"Rapeseed, at field",1.0,e7ba8c87-72ef-37ff-ba46-68fcf13e09ea,CAUSAL_ALLOCATION
+"Rapeseed, whole plant, at field",5abfba66-c3cb-38f2-8b01-9f566c5ab656,"Rapeseed, at field",1.0,e7ba8c87-72ef-37ff-ba46-68fcf13e09ea,ECONOMIC_ALLOCATION
+"Rapeseed, whole plant, at field",5abfba66-c3cb-38f2-8b01-9f566c5ab656,"Rapeseed, at field",1.0,e7ba8c87-72ef-37ff-ba46-68fcf13e09ea,PHYSICAL_ALLOCATION
+"Steel; hot-dip galvanised coil, at plant",dcfd311d-d8be-4c39-bd16-a5bd0dd9eec8,"Steel; hot-dip galvanised coil, at plant",1.0,fe598843-aa58-4c99-b4a4-d47d9c8adbe5,CAUSAL_ALLOCATION
+"Steel; hot-dip galvanised coil, at plant",dcfd311d-d8be-4c39-bd16-a5bd0dd9eec8,"Steel; hot-dip galvanised coil, at plant",1.0,fe598843-aa58-4c99-b4a4-d47d9c8adbe5,ECONOMIC_ALLOCATION
+"Steel; hot-dip galvanised coil, at plant",dcfd311d-d8be-4c39-bd16-a5bd0dd9eec8,"Steel; hot-dip galvanised coil, at plant",1.0,fe598843-aa58-4c99-b4a4-d47d9c8adbe5,PHYSICAL_ALLOCATION
+"Steel, cold-formed studs and track, at plant",2250f2f2-7faa-3307-9534-ca78b371b4dd,"Steel, cold-formed studs and track, at plant",1.0,88f1219a-d464-3e29-b43d-7a4d6ca4db8d,CAUSAL_ALLOCATION
+"Steel, cold-formed studs and track, at plant",2250f2f2-7faa-3307-9534-ca78b371b4dd,"Steel, cold-formed studs and track, at plant",1.0,88f1219a-d464-3e29-b43d-7a4d6ca4db8d,PHYSICAL_ALLOCATION
+"Steel, cold-formed studs and track, at plant",2250f2f2-7faa-3307-9534-ca78b371b4dd,"Steel, cold-formed studs and track, at plant",1.0,88f1219a-d464-3e29-b43d-7a4d6ca4db8d,ECONOMIC_ALLOCATION
+"Wood Combusted, at boiler, at hardboard mill",f3b8fc97-f519-3da0-80de-72a7d5551fda,"Wood ash, generated on-site, at hardboard mill",0.01873904820775533,80bd7cd8-a4ec-3dd8-888f-1f0f25d355e9,CAUSAL_ALLOCATION
+"Wood Combusted, at boiler, at hardboard mill",f3b8fc97-f519-3da0-80de-72a7d5551fda,"Wood Combusted, at boiler, at hardboard mill",0.9812609517922446,a7c46735-ccde-3b61-8a9a-23810a8683b9,CAUSAL_ALLOCATION
+"Wood Combusted, at boiler, at hardboard mill",f3b8fc97-f519-3da0-80de-72a7d5551fda,"Wood Combusted, at boiler, at hardboard mill",0.9812609517922446,a7c46735-ccde-3b61-8a9a-23810a8683b9,ECONOMIC_ALLOCATION
+"Wood Combusted, at boiler, at hardboard mill",f3b8fc97-f519-3da0-80de-72a7d5551fda,"Wood Combusted, at boiler, at hardboard mill",0.9812609517922446,a7c46735-ccde-3b61-8a9a-23810a8683b9,PHYSICAL_ALLOCATION
+"Wood Combusted, at boiler, at hardboard mill",f3b8fc97-f519-3da0-80de-72a7d5551fda,"Wood ash, generated on-site, at hardboard mill",0.01873904820775533,80bd7cd8-a4ec-3dd8-888f-1f0f25d355e9,ECONOMIC_ALLOCATION
+"Wood Combusted, at boiler, at hardboard mill",f3b8fc97-f519-3da0-80de-72a7d5551fda,"Wood ash, generated on-site, at hardboard mill",0.01873904820775533,80bd7cd8-a4ec-3dd8-888f-1f0f25d355e9,PHYSICAL_ALLOCATION
+"Steel; cold rolled coil, at plant",cc886340-1e9e-40fc-8bae-87ea661f00c7,"Steel; cold rolled coil, at plant",1.0,1f8a25cb-2a84-45ca-b418-1b6ab9c38c2c,CAUSAL_ALLOCATION
+"Steel; cold rolled coil, at plant",cc886340-1e9e-40fc-8bae-87ea661f00c7,"Steel; cold rolled coil, at plant",1.0,1f8a25cb-2a84-45ca-b418-1b6ab9c38c2c,ECONOMIC_ALLOCATION
+"Steel; cold rolled coil, at plant",cc886340-1e9e-40fc-8bae-87ea661f00c7,"Steel; cold rolled coil, at plant",1.0,1f8a25cb-2a84-45ca-b418-1b6ab9c38c2c,PHYSICAL_ALLOCATION
+"Paper, freesheet, coated, average production, at mill",51cb18c8-eb65-36b7-a20a-bc1ed819ff88,"Paper, freesheet, coated, average production, at mill",1.0,171c5462-de33-38ad-8de6-0d026ed2b051,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Shavings; hardwood; kiln-dried; at planer mill,0.054,2d72c700-2547-3c4d-b509-e3b3dfb1942a,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Sawn lumber; hardwood; planed; kiln dried; at planer mill,0.785,dc74c71d-c791-3d74-bc0e-8d7519f5d344,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Sawn lumber; hardwood; planed; kiln dried; at planer mill,0.785,dc74c71d-c791-3d74-bc0e-8d7519f5d344,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Sawdust; hardwood; kiln-dried; at planer mill,0.018,fe26fae6-a458-3a9d-8aac-bdc2748d145d,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Wood fuel; hardwood; kiln-dried; at planer mill,0.143,23de2b44-d931-39f7-b2c8-d56346794608,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Wood fuel; hardwood; kiln-dried; at planer mill,0.143,23de2b44-d931-39f7-b2c8-d56346794608,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Shavings; hardwood; kiln-dried; at planer mill,0.054,2d72c700-2547-3c4d-b509-e3b3dfb1942a,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Sawdust; hardwood; kiln-dried; at planer mill,0.018,fe26fae6-a458-3a9d-8aac-bdc2748d145d,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Shavings; hardwood; kiln-dried; at planer mill,0.054,2d72c700-2547-3c4d-b509-e3b3dfb1942a,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Sawdust; hardwood; kiln-dried; at planer mill,0.018,fe26fae6-a458-3a9d-8aac-bdc2748d145d,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Wood fuel; hardwood; kiln-dried; at planer mill,0.143,23de2b44-d931-39f7-b2c8-d56346794608,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE",35bd31d8-b0b1-3da8-a553-df33ccd9e452,Sawn lumber; hardwood; planed; kiln dried; at planer mill,0.785,dc74c71d-c791-3d74-bc0e-8d7519f5d344,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at mill, SE",6baa9816-6151-3af1-b230-d28bebfb5227,Bark; hardwood; green; at mill,0.039,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, SE",6baa9816-6151-3af1-b230-d28bebfb5227,Roundwood; hardwood; green; at mill,0.961,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, SE",6baa9816-6151-3af1-b230-d28bebfb5227,Roundwood; hardwood; green; at mill,0.961,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at mill, SE",6baa9816-6151-3af1-b230-d28bebfb5227,Roundwood; hardwood; green; at mill,0.961,6ce8c09f-8a15-3d59-a868-8093b62c4ff4,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at mill, SE",6baa9816-6151-3af1-b230-d28bebfb5227,Bark; hardwood; green; at mill,0.039,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at mill, SE",6baa9816-6151-3af1-b230-d28bebfb5227,Bark; hardwood; green; at mill,0.039,cbb91e4a-0a0f-3b79-9f6f-d54d716e05ea,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, SE",4a42fda8-640a-3152-9741-f64c558be34d,Bark; hardwood; green; at logyard,0.039,a02815b0-8760-3b74-b2b6-ea070b183bbe,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, SE",4a42fda8-640a-3152-9741-f64c558be34d,Roundwood; hardwood; green; at logyard,0.961,86313deb-8b04-3f3e-b983-2b9896a410a6,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at logyard, SE",4a42fda8-640a-3152-9741-f64c558be34d,Bark; hardwood; green; at logyard,0.039,a02815b0-8760-3b74-b2b6-ea070b183bbe,ECONOMIC_ALLOCATION
+"Roundwood, hardwood, green, at logyard, SE",4a42fda8-640a-3152-9741-f64c558be34d,Roundwood; hardwood; green; at logyard,0.961,86313deb-8b04-3f3e-b983-2b9896a410a6,CAUSAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, SE",4a42fda8-640a-3152-9741-f64c558be34d,Bark; hardwood; green; at logyard,0.039,a02815b0-8760-3b74-b2b6-ea070b183bbe,PHYSICAL_ALLOCATION
+"Roundwood, hardwood, green, at logyard, SE",4a42fda8-640a-3152-9741-f64c558be34d,Roundwood; hardwood; green; at logyard,0.961,86313deb-8b04-3f3e-b983-2b9896a410a6,PHYSICAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill, average, SE",d85c6177-4580-35f0-afd6-52125ababf10,Heat; onsite boiler; hardwood mill; average,0.993,833c3f72-fbbe-37ea-adf8-929b47ec0255,PHYSICAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill, average, SE",d85c6177-4580-35f0-afd6-52125ababf10,Electricity; onsite boiler; hardwood mill; average,0.007,97624ce0-6d6a-3376-bfa7-c663b3c7e48d,CAUSAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill, average, SE",d85c6177-4580-35f0-afd6-52125ababf10,Electricity; onsite boiler; hardwood mill; average,0.007,97624ce0-6d6a-3376-bfa7-c663b3c7e48d,PHYSICAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill, average, SE",d85c6177-4580-35f0-afd6-52125ababf10,Heat; onsite boiler; hardwood mill; average,0.993,833c3f72-fbbe-37ea-adf8-929b47ec0255,CAUSAL_ALLOCATION
+"Heat, onsite boiler, hardwood mill, average, SE",d85c6177-4580-35f0-afd6-52125ababf10,Heat; onsite boiler; hardwood mill; average,0.993,833c3f72-fbbe-37ea-adf8-929b47ec0255,ECONOMIC_ALLOCATION
+"Heat, onsite boiler, hardwood mill, average, SE",d85c6177-4580-35f0-afd6-52125ababf10,Electricity; onsite boiler; hardwood mill; average,0.007,97624ce0-6d6a-3376-bfa7-c663b3c7e48d,ECONOMIC_ALLOCATION
+"Pulp, kraft market, bleached, average production, at mill",cbf4023b-71f7-36b7-8c45-ea43bc2f108c,"Pulp, kraft market, bleached, average production, at mill",1.0,b8dc8889-932a-3517-8d7d-c663d1373227,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Sawdust; hardwood; green; at sawmill,0.031,09158da1-b29b-33c9-9b80-baa6618ee541,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Sawn lumber; hardwood; rough; green; at sawmill,0.57,6170b901-641c-3088-a8c0-799f9e5f766f,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Wood fuel; hardwood; green; at sawmill,0.073,851dabd1-801f-3582-8b29-a3cdd6f65473,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Bark; hardwood; green; at sawmill,0.02,76dd64c9-130f-3803-bdf2-ae1445a7372d,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Wood chips; hardwood; green; at sawmill,0.211,de3af1d1-ce3e-329c-9ca7-6323adb9f172,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Hogged fuel; hardwood; green; at sawmill,0.095,9d8c4200-5dc8-3515-9c23-31c577722fce,CAUSAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Wood fuel; hardwood; green; at sawmill,0.073,851dabd1-801f-3582-8b29-a3cdd6f65473,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Wood fuel; hardwood; green; at sawmill,0.073,851dabd1-801f-3582-8b29-a3cdd6f65473,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Hogged fuel; hardwood; green; at sawmill,0.095,9d8c4200-5dc8-3515-9c23-31c577722fce,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Sawn lumber; hardwood; rough; green; at sawmill,0.57,6170b901-641c-3088-a8c0-799f9e5f766f,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Sawdust; hardwood; green; at sawmill,0.031,09158da1-b29b-33c9-9b80-baa6618ee541,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Bark; hardwood; green; at sawmill,0.02,76dd64c9-130f-3803-bdf2-ae1445a7372d,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Wood chips; hardwood; green; at sawmill,0.211,de3af1d1-ce3e-329c-9ca7-6323adb9f172,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Hogged fuel; hardwood; green; at sawmill,0.095,9d8c4200-5dc8-3515-9c23-31c577722fce,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Sawdust; hardwood; green; at sawmill,0.031,09158da1-b29b-33c9-9b80-baa6618ee541,PHYSICAL_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Bark; hardwood; green; at sawmill,0.02,76dd64c9-130f-3803-bdf2-ae1445a7372d,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Wood chips; hardwood; green; at sawmill,0.211,de3af1d1-ce3e-329c-9ca7-6323adb9f172,ECONOMIC_ALLOCATION
+"Sawn lumber, hardwood, rough, green, at sawmill, SE",ce587724-1be4-3da0-b7a2-988592c28b9a,Sawn lumber; hardwood; rough; green; at sawmill,0.57,6170b901-641c-3088-a8c0-799f9e5f766f,ECONOMIC_ALLOCATION
+"Containerboard, average production, at mill",c245a252-0860-41d2-9789-802bab7984ab,"Containerboard, average production, at mill",1.0,42385daf-e0a4-35de-9a68-931400275c60,CAUSAL_ALLOCATION
+"Containerboard, average production, at mill",c245a252-0860-41d2-9789-802bab7984ab,"Containerboard, average production, at mill",1.0,42385daf-e0a4-35de-9a68-931400275c60,PHYSICAL_ALLOCATION
+"Containerboard, average production, at mill",c245a252-0860-41d2-9789-802bab7984ab,"Containerboard, average production, at mill",1.0,42385daf-e0a4-35de-9a68-931400275c60,ECONOMIC_ALLOCATION
+"Steel; hot rolled coil, at plant",a591c53f-ce67-41da-b0c1-65b6d91a1a43,"Steel; hot rolled coil, at plant",1.0,e8fbfbfb-24e9-49a6-a047-41f1646bf7f7,CAUSAL_ALLOCATION
+"Steel; hot rolled coil, at plant",a591c53f-ce67-41da-b0c1-65b6d91a1a43,"Steel; hot rolled coil, at plant",1.0,e8fbfbfb-24e9-49a6-a047-41f1646bf7f7,PHYSICAL_ALLOCATION
+"Steel; hot rolled coil, at plant",a591c53f-ce67-41da-b0c1-65b6d91a1a43,"Steel; hot rolled coil, at plant",1.0,e8fbfbfb-24e9-49a6-a047-41f1646bf7f7,ECONOMIC_ALLOCATION
+"Soybean grains, at field",956b53b9-dd05-35ae-a072-69f1f6906290,"Soybean grains, at field",1.0,8f745171-c4af-3e23-a468-fbde8d7af364,CAUSAL_ALLOCATION
+"Soybean grains, at field",956b53b9-dd05-35ae-a072-69f1f6906290,"Soybean grains, at field",1.0,8f745171-c4af-3e23-a468-fbde8d7af364,PHYSICAL_ALLOCATION
+"Soybean grains, at field",956b53b9-dd05-35ae-a072-69f1f6906290,"Soybean grains, at field",1.0,8f745171-c4af-3e23-a468-fbde8d7af364,ECONOMIC_ALLOCATION
+"Steel; sections, at plant",1b8709a5-5df4-4c52-85e4-dd6e7ed8deba,"Steel; sections, at plant",1.0,24e6bc97-3d11-4a73-8598-8965c7dd9927,CAUSAL_ALLOCATION
+"Steel; sections, at plant",1b8709a5-5df4-4c52-85e4-dd6e7ed8deba,"Steel; sections, at plant",1.0,24e6bc97-3d11-4a73-8598-8965c7dd9927,PHYSICAL_ALLOCATION
+"Steel; sections, at plant",1b8709a5-5df4-4c52-85e4-dd6e7ed8deba,"Steel; sections, at plant",1.0,24e6bc97-3d11-4a73-8598-8965c7dd9927,ECONOMIC_ALLOCATION
+"Paper, bag and sack, unbleached kraft, average production, at mill",f9cf891e-fd8c-304c-9707-4a7e390b9e75,"Paper, bag and sack, unbleached kraft, average production, at mill",1.0,0871432e-9009-3056-8387-d73d5b0d2da3,ECONOMIC_ALLOCATION
+"Soybean oil, crude, degummed, at plant",88aee762-4aa0-301f-b579-cca5d636aa0d,"Soy meal, at plant",0.8051062171116742,263fb8d0-8df5-3cee-834b-b7e2de1dac4a,PHYSICAL_ALLOCATION
+"Soybean oil, crude, degummed, at plant",88aee762-4aa0-301f-b579-cca5d636aa0d,"Soybean oil, crude, degummed, at plant",0.19489378288832587,0a09b436-a529-3355-b5b7-120a90eac178,CAUSAL_ALLOCATION
+"Soybean oil, crude, degummed, at plant",88aee762-4aa0-301f-b579-cca5d636aa0d,"Soy meal, at plant",0.8051062171116742,263fb8d0-8df5-3cee-834b-b7e2de1dac4a,ECONOMIC_ALLOCATION
+"Soybean oil, crude, degummed, at plant",88aee762-4aa0-301f-b579-cca5d636aa0d,"Soybean oil, crude, degummed, at plant",0.19489378288832587,0a09b436-a529-3355-b5b7-120a90eac178,PHYSICAL_ALLOCATION
+"Soybean oil, crude, degummed, at plant",88aee762-4aa0-301f-b579-cca5d636aa0d,"Soybean oil, crude, degummed, at plant",0.19489378288832587,0a09b436-a529-3355-b5b7-120a90eac178,ECONOMIC_ALLOCATION
+"Soybean oil, crude, degummed, at plant",88aee762-4aa0-301f-b579-cca5d636aa0d,"Soy meal, at plant",0.8051062171116742,263fb8d0-8df5-3cee-834b-b7e2de1dac4a,CAUSAL_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,"Hydrogen, at plant",0.01898497344974498,f842f7d2-426a-44e0-ae4c-d1c96a977f84,CAUSAL_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,Chlorine; chlor-alkali electrolysis; at plant,0.4357244354720275,8db1425d-16fb-4003-98f5-1d12d5995feb,CAUSAL_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,Sodium hydroxide; at plant,0.5452905910782275,d12c4a32-12a8-4673-9b14-5d227d2a128e,CAUSAL_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,Chlorine; chlor-alkali electrolysis; at plant,0.4357244354720275,8db1425d-16fb-4003-98f5-1d12d5995feb,PHYSICAL_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,"Hydrogen, at plant",0.01898497344974498,f842f7d2-426a-44e0-ae4c-d1c96a977f84,PHYSICAL_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,Sodium hydroxide; at plant,0.5452905910782275,d12c4a32-12a8-4673-9b14-5d227d2a128e,PHYSICAL_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,"Hydrogen, at plant",0.01898497344974498,f842f7d2-426a-44e0-ae4c-d1c96a977f84,ECONOMIC_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,Sodium hydroxide; at plant,0.5452905910782275,d12c4a32-12a8-4673-9b14-5d227d2a128e,ECONOMIC_ALLOCATION
+Chlorine; chlor-alkali electrolysis; at plant,a3e150d0-770e-4e2a-9b19-f7daa8cda38b,Chlorine; chlor-alkali electrolysis; at plant,0.4357244354720275,8db1425d-16fb-4003-98f5-1d12d5995feb,ECONOMIC_ALLOCATION
+"Ethanol, denatured, corn dry mill",8e3e47ea-ed49-329e-8931-29115917bc81,"Ethanol, denatured, corn dry mill",1.0,f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,CAUSAL_ALLOCATION
+"Ethanol, denatured, corn dry mill",8e3e47ea-ed49-329e-8931-29115917bc81,"Ethanol, denatured, corn dry mill",1.0,f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,ECONOMIC_ALLOCATION
+"Ethanol, denatured, corn dry mill",8e3e47ea-ed49-329e-8931-29115917bc81,"Ethanol, denatured, corn dry mill",1.0,f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,PHYSICAL_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Ethanol, denatured, forest residues, thermochem",0.8465235906059579,2656bfd3-ed3c-3fb8-ab93-6597836a463b,ECONOMIC_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Ethanol, denatured, forest residues, thermochem",0.463338534,2656bfd3-ed3c-3fb8-ab93-6597836a463b,CAUSAL_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Mixed Alcohols, thermochemical process",0.536661466,0cdd9079-9cf3-33c9-ab62-9d734c03f7df,CAUSAL_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Mixed Alcohols, thermochemical process",0.15133762156563105,0cdd9079-9cf3-33c9-ab62-9d734c03f7df,ECONOMIC_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Sulfur, thermochemical process",0.002138787828411031,80e4ff02-d959-3ec5-a5df-3ed385d7df0c,ECONOMIC_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Ethanol, denatured, forest residues, thermochem",0.8465235906059579,2656bfd3-ed3c-3fb8-ab93-6597836a463b,PHYSICAL_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Mixed Alcohols, thermochemical process",0.15133762156563105,0cdd9079-9cf3-33c9-ab62-9d734c03f7df,PHYSICAL_ALLOCATION
+"Ethanol, denatured, forest residues, thermochem",d9cadd89-4203-375a-903a-63197cd29c6a,"Sulfur, thermochemical process",0.002138787828411031,80e4ff02-d959-3ec5-a5df-3ed385d7df0c,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Diesel, at refinery",0.2188,d939590b-a0d7-310c-8952-9921ed64a078,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Petroleum coke, at refinery",0.0596,4f1bfabb-f0d3-3f1f-a905-2fd9b36bbfa0,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Residual fuel oil, at refinery",0.0489,f7c00d19-9601-373a-ba23-593e251b4dee,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Refinery gas, at refinery",0.0451,c4069217-dfd4-324a-9243-2ee8058809d6,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Gasoline, at refinery",0.4213,0e44e579-abb0-3c77-af64-c774d65be529,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Kerosene, at refinery",0.091,c5f94bb1-b39e-39fa-b616-376a30531c2d,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Residual fuel oil, at refinery",0.0489,f7c00d19-9601-373a-ba23-593e251b4dee,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Gasoline, at refinery",0.4213,0e44e579-abb0-3c77-af64-c774d65be529,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Kerosene, at refinery",0.091,c5f94bb1-b39e-39fa-b616-376a30531c2d,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Petroleum refining coproduct, at refinery",0.0515,5f96ad43-abab-3b62-bcf8-c71f9d6c7881,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Liquefied petroleum gas, at refinery",0.0266,813325ee-9eb4-3825-9280-bee7b1a2e9a8,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Bitumen, at refinery",0.0372,30a64e63-3583-3f83-8d8d-0b6ea003b888,CAUSAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Refinery gas, at refinery",0.0451,c4069217-dfd4-324a-9243-2ee8058809d6,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Diesel, at refinery",0.2188,d939590b-a0d7-310c-8952-9921ed64a078,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Bitumen, at refinery",0.0372,30a64e63-3583-3f83-8d8d-0b6ea003b888,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Liquefied petroleum gas, at refinery",0.0266,813325ee-9eb4-3825-9280-bee7b1a2e9a8,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Petroleum coke, at refinery",0.0596,4f1bfabb-f0d3-3f1f-a905-2fd9b36bbfa0,PHYSICAL_ALLOCATION
+"Petroleum refining, at refinery",0aaf1e13-5d80-37f9-b7bb-81a6b8965c71,"Petroleum refining coproduct, at refinery",0.0515,5f96ad43-abab-3b62-bcf8-c71f9d6c7881,PHYSICAL_ALLOCATION
