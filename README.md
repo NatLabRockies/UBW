@@ -36,15 +36,23 @@ The workflow enables **reproducible, validated LCA inventories** within the Brig
    os.environ['BRIGHTWAY2_DIR'] = "/path/to/bw2uslci_test/"
    ```
 
-4. **Run the pipeline**  
+4. **Run the pipeline**
    ```bash
    python backup_plan.py
    ```
 
-5. **Check results**  
-   - `process_product_corrected.csv` → cleaned processes  
-   - `lcia_results.csv` → LCIA results for all activities  
-   - `exchange_issues.csv` → logged technosphere/biosphere issues  
+5. **Update biosphere flow mappings** (optional but recommended)
+   `working_bridge.csv` may not cover all elementary flows in `uslci.csv`. The bridge mapper skill identifies unmapped flows, matches them against biosphere3 by name and compartment, and appends new mappings to `working_bridge.csv`. See [Bridge Mapper](#-bridge-mapper) below.
+
+   After updating the bridge, re-run the pipeline:
+   ```bash
+   python backup_plan.py
+   ```
+
+6. **Check results**
+   - `process_product_corrected.csv` → cleaned processes
+   - `lcia_results.csv` → LCIA results for all activities
+   - `exchange_issues.csv` → logged technosphere/biosphere issues
 
 ---
 
@@ -193,7 +201,30 @@ production amount: 1.0 kWh
 
 ---
 
+## 🌉 Bridge Mapper
+
+`working_bridge.csv` maps USLCI elementary flow IDs to biosphere3 UUIDs. Flows not in the bridge are dropped during step 5 (Add Biosphere Exchanges), leading to incomplete LCIA results.
+
+The [uslci-bridge-mapper](https://github.com/sergiomor/uslci-bridge-mapper) is a Claude Code skill that automates the creation of missing mappings using exact name + compartment matching and AI-assisted fuzzy matching (spelling variants, IUPAC/common names, CFC trade names, oxidation states, etc.).
+
+Tested on USLCI 2025 Q1: improved `working_bridge.csv` from 2,424 to 3,250 mappings (+826), reducing unmapped flows from 1,495 to 669.
+
+### Usage
+
+Requires [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
+
+1. Fork this repository
+2. Download the [uslci-bridge-mapper](https://github.com/sergiomor/uslci-bridge-mapper) skill into `.claude/skills/`
+3. Run `backup_plan.py` at least once (so biosphere3 exists)
+4. Run `/uslci-bridge-mapper` in Claude Code
+5. Re-run `backup_plan.py` to rebuild with the updated bridge
+6. PR the updated `working_bridge.csv` back to this repo
+
+See the [skill README](https://github.com/sergiomor/uslci-bridge-mapper) for full documentation, requirements, and the list of unfixable flows.
+
+---
+
 ## 🔮 Future Work
-- Add support for economic or system expansion allocation  
-- Extend exporter to generate Ecospold2 for openLCA/SimaPro import  
-- Automate mapping of USLCI → biosphere3 flows using NLP/AI tools  
+- Add support for economic or system expansion allocation
+- Extend exporter to generate Ecospold2 for openLCA/SimaPro import
+- ~~Automate mapping of USLCI → biosphere3 flows using NLP/AI tools~~ (implemented via Bridge Mapper)
