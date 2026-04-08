@@ -129,7 +129,7 @@ restore_project_directory("uslci_elci_brightway2.tar.gz")
 
 ## Workflow B — Add a Custom Dataset to the Existing USLCI Project
 
-This is the primary active workflow. It lets you take a hand-crafted database already loaded in Brightway2 (e.g., built in Activity Browser), extract it to a portable CSV format, audit its UUID linkages against USLCI, fix any broken supplier references, and then push the corrected dataset back into the shared project.
+This workflow lets you take a hand-crafted database already loaded in Brightway2 (e.g., built in Activity Browser), extract it to a portable CSV format, audit its UUID linkages against USLCI, fix any broken supplier references, and then push the corrected dataset back into the shared project.
 
 All scripts live in `adding_new_datasets_to_uslci/`. Run them from inside that directory:
 
@@ -266,7 +266,7 @@ Writes `uslci_old_units.csv` with all unique unit strings found.
 
 | File | Description |
 |------|-------------|
-| `uslci.csv` | Full USLCI dataset in flat CSV format (process + exchange rows). Used by the core BW2-builder pipeline. |
+| `uslci.csv` | Full USLCI dataset in flat CSV format (process + exchange rows). Used by backup_plan.py. |
 | `working_bridge.csv` | Two-column CSV mapping `uslci_id` → `biosphere_id` (biosphere3 UUIDs). Required for biosphere exchange linking. |
 | `allocation_exchange_df.csv` | Multi-output allocation table with columns: `process_name`, `process_id`, `exchange_name`, `exchange_val`, `exchange_id`, `allocation_type`. |
 | `adding_new_datasets_to_uslci/unit_bridge.csv` | Unit harmonization table for the custom dataset push workflow. |
@@ -297,6 +297,7 @@ All outputs are written to the `output/` directory:
 
 | Script | Project Name | Database Name |
 |--------|-------------|---------------|
+| `backup_plan.py` | `bw2uslci_generator_final` | `testest` (or your chosen name) |
 | `project/load_project_ab.py` | restored from backup | restored from backup |
 | `extract_uslci_bw.py` | `bw2uslci_generator_final` | `uslci_database596` |
 | `bw_db_to_csv.py` | `uslci_transfer_activities` | `N-SCITE` |
@@ -317,13 +318,3 @@ Update these names in each script to match your local Brightway2 setup.
 **Square-matrix check fails** — `push_extracted_dataset_bw2.py` validates that the number of unique `process_id` values equals the number of unique `exchange_flow_id` values. Each process must have exactly one reference product.
 
 **Allocation factors ≤ 0 or NaN** — The pipeline resets bad factors to 1.0 and logs a warning. Check `output/allocation_issues.csv` for affected processes.
-
----
-
-## Git History
-
-| Commit | Date | Description |
-|--------|------|-------------|
-| `668c8e5` | 2025-12-16 | Update LICENSE |
-| `e72f6f4` | 2025-12-16 | Working Code for USLCI-Reading to BW2 (initial full commit) |
-| `a6556f3` | 2025-12-15 | Initial commit (LICENSE only) |
